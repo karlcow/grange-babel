@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 
 <head>
     <meta charset="utf-8"/>
-	<title>Nous, les robots - Carnets de La Grange</title>
+	<title>We, the robots - Carnets de La Grange</title>
 	<link rel="stylesheet" href="/2010/04/01/style/carnet.css" type="text/css" media="screen"/>
 	<link rel="alternate" type="application/atom+xml" href="http://www.la-grange.net/feed.atom"/>
 	<link rel="icon" href="/favicon.ico" type="image/png"/>
@@ -21,9 +21,13 @@
 <div id="contenu">
 
 <!-- titre -->
-    <h1 id="titre"><span id="texte-titre">Nous, les robots</span></h1>
+    <h1 id="titre"><span id="texte-titre">We, the robots</span></h1>
 
-    <p id="publication"><span id="date">17 mai 2011</span>, <abbr title="mise à jour">maj</abbr>: <span id="maj">2011-05-17</span></p>
+    <p id="publication">
+        <span id="date">May 17, 2011</span>, 
+        <abbr title="updated">upd</abbr>: <span id="maj">2011-05-19</span>, 
+<!-- Ajouter le nom du ou des traducteurs -->
+        translated by <a href="http://john.example.org/">John Smith</a></p>
 
 <div id="mots">
 
