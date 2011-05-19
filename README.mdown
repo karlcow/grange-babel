@@ -1,3 +1,17 @@
 # Traductions pour La Grange
 
 Collection de textes hébergés sur [La Grange](http://www.la-grange.net/) et ouverts à la traduction
+
+# Traduction des billets
+
+Les billets sont dans le répertoire carnet. La version française contient un .fr et le fichier contient la date de publication sur La Grange.
+
+Pour traduire créer un nouveau fichier que vous renommez avec l'extension de la langue. Par exemple, un fichier à traduire
+
+    1981-05-11-espoirs.html.fr
+
+Suivez la séquence suivante pour une traduction en anglais
+
+    cp 1981-05-11-espoirs.html.fr 1981-05-11-espoirs.html.en
+    git add 1981-05-11-espoirs.html.en
+    git commit -m "début de la traduction du texte 1981-05-11-espoirs.html.fr" 1981-05-11-espoirs.html.en
