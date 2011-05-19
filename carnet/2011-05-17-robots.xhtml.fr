@@ -3,10 +3,10 @@
 
 <head>
     <meta charset="utf-8"/>
-	<title>Nous, les robots - Carnets de La Grange</title>
-	<link rel="stylesheet" href="/2010/04/01/style/carnet.css" type="text/css" media="screen"/>
-	<link rel="alternate" type="application/atom+xml" href="http://www.la-grange.net/feed.atom"/>
-	<link rel="icon" href="/favicon.ico" type="image/png"/>
+    <title>Nous, les robots - Carnets de La Grange</title>
+    <link rel="stylesheet" href="/2010/04/01/style/carnet.css" type="text/css" media="screen"/>
+    <link rel="alternate" type="application/atom+xml" href="http://www.la-grange.net/feed.atom"/>
+    <link rel="icon" href="/favicon.ico" type="image/png"/>
     <meta name="keywords" content="robot, désobéissance, objectisyou, futur, carnet"/>
 </head>
 
@@ -37,7 +37,7 @@
             <cite class="titre">Anti-Object</cite>, p.37, AA publications, 2008.</p>
     </blockquote>
 
-<p>L'homme créa le robot a son image, mais il fût extrêmement déçu. Et pourtant, l'espoir habitait toutes les imaginations. Comme dans toute mythologie, il inventa la genèse, le moment ultime de l'avant et de l'après. La courte vie demande que cet instant soit bref afin qu'il soit palpable dans le moment d'une génération. Que ce soit dans <a href="http://en.wikipedia.org/wiki/Ghost_in_the_Shell_(film)">Ghost In The Shell</a>, <a href="http://en.wikipedia.org/wiki/I,_Robot_(film)">I, Robot</a>, <a href="http://www.wetherobots.com">We the robots</a> (ci-dessous), les robots s'éveillent à la conscience, le don ultime.</p>
+<p>L'homme créa le robot à son image, mais il fût extrêmement déçu. Et pourtant, l'espoir habitait toutes les imaginations. Comme dans toute mythologie, il inventa la genèse, le moment ultime de l'avant et de l'après. La courte vie demande que cet instant soit bref afin qu'il soit palpable dans le moment d'une génération. Que ce soit dans <a href="http://en.wikipedia.org/wiki/Ghost_in_the_Shell_(film)">Ghost In The Shell</a>, <a href="http://en.wikipedia.org/wiki/I,_Robot_(film)">I, Robot</a>, <a href="http://www.wetherobots.com">We the robots</a> (ci-dessous), les robots s'éveillent à la conscience, le don ultime.</p>
 
 <p class="figure"><img id="wetherobots20071001" src="/2011/05/17/wetherobots-2007-10-01-IntroCh1" alt="Wetherobots20071001"/><br/><span class="source">Chris Harding 2007 ©, <a href="http://www.wetherobots.com/2007/10/01/intro-ch-001/">We The Robots 2007-01-01</a></span></p>
 
@@ -49,7 +49,7 @@ karl
 </pre>
 </div>
 
-<p>Hmm… qui me réponds ? Un programme obéissant aux instructions construites dans le système Unix de l'ordinateur. Il ne s'agit pas là vraiment d'une réponse mais bien d'une programmation de mon futur. Le programme a été conçu pour répondre dans le futur. Lorsque nous entrons <code>whoami</code> (Qui suis-je ?), le programme répond avec mon identifiant sur l'ordinateur. Bien que la réponse soit exacte et en accord avec ce qui avait été défini, elle éveille un manque de « conscience. » Imaginons que le programme réponde, « je ne sais pas. » La relation devient soudainement intéressante car elle est un accident, une opportunité d'exploration afin de mieux comprendre. Il s'agit du début d'un dialogue.</p>
+<p>Hmm… qui me répond ? Un programme obéissant aux instructions construites dans le système Unix de l'ordinateur. Il ne s'agit pas là vraiment d'une réponse mais bien d'une programmation de mon futur. Le programme a été conçu pour répondre dans le futur. Lorsque nous entrons <code>whoami</code> (Qui suis-je ?), le programme répond avec mon identifiant sur l'ordinateur. Bien que la réponse soit exacte et en accord avec ce qui avait été défini, elle éveille un manque de « conscience. » Imaginons que le programme réponde, « je ne sais pas. » La relation devient soudainement intéressante car elle est un accident, une opportunité d'exploration afin de mieux comprendre. Il s'agit du début d'un dialogue.</p>
 
 <h2 id="leprogrammeduquotidien">Le programme du quotidien</h2>
 
