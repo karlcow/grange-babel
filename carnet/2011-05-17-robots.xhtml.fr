@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr">
+
+<head>
+    <meta charset="utf-8"/>
+	<title>Nous, les robots - Carnets de La Grange</title>
+	<link rel="stylesheet" href="/2010/04/01/style/carnet.css" type="text/css" media="screen"/>
+	<link rel="alternate" type="application/atom+xml" href="http://www.la-grange.net/feed.atom"/>
+	<link rel="icon" href="/favicon.ico" type="image/png"/>
+    <meta name="keywords" content="robot, désobéissance, objectisyou, futur, carnet"/>
+</head>
+
+<body id="la-grange-net">
+
+
+<div id="page">
+    <div id="header">
+        <span id="carnet-titre"><a href="http://www.la-grange.net/">Les carnets Web de La Grange</a></span>
+    </div>
+<!-- contenu -->
+<div id="contenu">
+
+<!-- titre -->
+    <h1 id="titre"><span id="texte-titre">Nous, les robots</span></h1>
+
+    <p id="publication"><span id="date">17 mai 2011</span>, <abbr title="mise à jour">maj</abbr>: <span id="maj">2011-05-17</span></p>
+
+<div id="mots">
+
+    <p class="figure"><img src="/2011/04/30/5475-tv-robot" alt="Graffiti"/><br/><span class="source">New-York, États-Unis, 30 avril 2011</span></p>
+
+
+    <blockquote cite="urn:isbn:978-1-902902-52-4">
+        <p>The boundary conditions of this installation shift from moment to moment, responding to the changing moods of nature.</p>
+        <p class="source">
+            <cite class="auteur">Kuma, Kengo</cite>, 
+            <cite class="titre">Anti-Object</cite>, p.37, AA publications, 2008.</p>
+    </blockquote>
+
+<p>L'homme créa le robot a son image, mais il fût extrêmement déçu. Et pourtant, l'espoir habitait toutes les imaginations. Comme dans toute mythologie, il inventa la genèse, le moment ultime de l'avant et de l'après. La courte vie demande que cet instant soit bref afin qu'il soit palpable dans le moment d'une génération. Que ce soit dans <a href="http://en.wikipedia.org/wiki/Ghost_in_the_Shell_(film)">Ghost In The Shell</a>, <a href="http://en.wikipedia.org/wiki/I,_Robot_(film)">I, Robot</a>, <a href="http://www.wetherobots.com">We the robots</a> (ci-dessous), les robots s'éveillent à la conscience, le don ultime.</p>
+
+<p class="figure"><img id="wetherobots20071001" src="/2011/05/17/wetherobots-2007-10-01-IntroCh1" alt="Wetherobots20071001"/><br/><span class="source">Chris Harding 2007 ©, <a href="http://www.wetherobots.com/2007/10/01/intro-ch-001/">We The Robots 2007-01-01</a></span></p>
+
+<p>Généralement, l'homme disparaît ou définit une place dans la société pour cette nouvelle espèce consciente. Mais est-ce là toute l'histoire, existe-t-il d'autres chemins dont nous n'avons pas conscience, plus subtils ? Je décide de poser la question dans le terminal de mon ordinateur.</p>
+
+<div class="sourcecode">
+<pre>karl: [10:26:23]% whoami
+karl
+</pre>
+</div>
+
+<p>Hmm… qui me réponds ? Un programme obéissant aux instructions construites dans le système Unix de l'ordinateur. Il ne s'agit pas là vraiment d'une réponse mais bien d'une programmation de mon futur. Le programme a été conçu pour répondre dans le futur. Lorsque nous entrons <code>whoami</code> (Qui suis-je ?), le programme répond avec mon identifiant sur l'ordinateur. Bien que la réponse soit exacte et en accord avec ce qui avait été défini, elle éveille un manque de « conscience. » Imaginons que le programme réponde, « je ne sais pas. » La relation devient soudainement intéressante car elle est un accident, une opportunité d'exploration afin de mieux comprendre. Il s'agit du début d'un dialogue.</p>
+
+<h2 id="leprogrammeduquotidien">Le programme du quotidien</h2>
+
+<h3 id="calendrier">Calendrier</h3>
+
+<p>Notre vie est pleine de ces moments où nous répondons à des programmes.  Le calendrier réorganise le temps en une séquence de semaines, mois et années. Mais bien plus que cela il est une programmation de notre futur. Nous obéissons à des éléments qui structurent nos actions individuelles, mais également et inconsciemment à nos comportements en société. Dans de nombreuses parties de notre société industrialisée, nous avons rythmé nos vies autour de 5+2 jours. Ces deux jours de week-ends programment un comportement différent, un type d'action, une suppression de notre flexibilité. Dans les grandes entreprises, nous ne pouvons <em>généralement</em> aller travailler le samedi à la place du mercredi, car ce n'est pas prévu par le programme. L'accident est impossible.</p>
+
+<p class="figure"><img src="/2011/05/17/calendrier" alt="" /><br/><span class="source">Calendrier du mois de mai 2011</span></p>
+
+<h3 id="systmedecartographie">Système de cartographie</h3>
+
+<p>Les systèmes de cartographie en ligne proposent également un programme dont nous réalisons peu la portée. Chercher la direction d'une adresse d'origine vers une destination est devenue une action très courante. Nous n'y pensons pas vraiment. Nous ne sommes plus émerveillés. Nous utilisons sans questionner. Le programme est couramment optimisé selon certains critères : </p>
+
+<ul>
+<li>la distance (la plus courte), </li>
+<li>le temps (le plus court), </li>
+<li>le trajet (le moins cher), </li>
+<li>le moyen de transport : à pied, en voiture, en transport en commun (avec une date et heure).</li>
+</ul>
+
+<p>Ces choix sont le reflet d'une certaine organisation de nos sociétés, de ses valeurs et de son optimisation. Le chemin proposé est toujours le même pour les critères définis précédemment. Il nous suffit de suivre les instructions pour réaliser un saut quantique entre les deux points de la carte. L'entre-deux n'est pas important, il n'est que l'exécution. Nous pourrions d'ailleurs optimiser un peu plus et accentuer ce saut quantique en automatisant complètement la <a href="http://www.physorg.com/news/2011-05-google-driverless-cars-legal-nevada.html">conduite directement branché dans le système de direction en ligne</a>. L'argument retenu sera la sécurité et l'optimisation du système. Une fois tout le monde branché dans le même système, nous pouvons également réguler, distribuer le trafic à travers différents chemins.</p>
+
+<p class="figure"><img src="/2011/05/17/directionmap" alt="carte de direction"/><br/><span class="source">Route de Renault, Cléon à Elbeuf</span></p>
+
+<h3 id="laroute">La route</h3>
+
+<p>Le système de cartographie est lui-même programmé à partir d'un autre programme : le système des voies de communications. Avant l'invention de la route et de la machine, nous marchions avec une grande flexibilité. Nos contraintes consistaient en la géographie naturelle de l'espace physique ainsi que de sa biologie. Nous avons créé des chemins, puis des routes, puis des voies de chemins de fer afin d'optimiser nos déplacements, les sécuriser, les rendre plus fiables, plus contrôlables, plus efficaces. En les suivant nous répondons à un programme pré-établi et dont nous questionnons peu l'existence, duquel nous pouvons difficilement échapper.</p>
+
+<p class="figure"><img src="/2007/10/12-6722-circulation" alt="Système  de routes en béton"/><br/><span class="source">Hong-Kong, 12 octobre 2007</span></p>
+
+<h2 id="demeilleursprogrammes">De « meilleurs » programmes</h2>
+
+<p>Ces programmes sont une contrainte. Pour nombre d'entre eux, nous ne réalisons pas toujours l'impact qu'ils ont sur notre libre arbitre. Nous les avons acceptés. Nous les suivons avec bonheur nous donnant une forme de sécurité, de confort accélérant nos prises de décisions dans la société. Ils peuvent être bien sûr optimisés.</p>
+
+<p>Les appareils mobiles permettent de tracer nos déplacements, leurs fréquences. Les opérateurs savent exactement à quelques mètres près combien de temps nous avons passé dans un endroit précis. Il ne s'agit pas seulement de tracer un déplacement mais également de comprendre les temps immobiles et les catégories de ces temps. Notre appareil mobile dit que nous avons passé 45 minutes dans ce café japonais à l'heure du midi. Il remarque que nous y passons régulièrement aux mêmes heures certains jours de la semaine. Que nous échangeons des messages avec des amis qui sont aussi dans ce même café aux mêmes moments que nous. Toute cette information pourrait être utilisée pour nous proposer un itinéraire qui ne répond plus seulement aux critères précédents mais également à nos préférences. La route proposée s'ajustera pour utiliser des rues avec des magasins que nous sommes susceptibles d'aimer. Le programme nous proposera de faire un arrêt à un endroit que nous aimons et évitera les endroits qui nous rendent inconfortables. Ce programme sera finalement plus facile à suivre car il collera à ce qui nous semble naturel. Il est moins violent.</p>
+
+<h2 id="ladsobissancenumrique">La désobéissance numérique</h2>
+
+<p>La personnalisation est un système de programmation du futur. </p>
+
+<p>En diminuant les risques d'accident, en optimisant l'expérience, nous créons un système vie générant moins de questions. Eli Pariser exprime ce phénomène par les <a href="http://www.youtube.com/watch?v=B8ofWFx525s">bulles de filtres</a>. Dans notre rencontre avec l'information, les programmes éliminent petit à petit, les éléments accidentels ceux qui sont matières à nous déstabiliser, ceux que nous ne voulons pas voir. Il crée un univers plus policé dans lequel nous <a href="http://www.recombinantrecords.net/docs/2009-05-Amusing-Ourselves-to-Death.html">voulons participer jusqu'à notre fin</a>.</p>
+
+<p>Le système est pernicieux car il n'est pas vraiment contraignant, il nous habitue à nos choix initiaux jusqu'au moment où nous ne sommes plus conscients de ces choix. Jusqu'au moment où ne faisons qu'obéir à un programme. <strong>Nous sommes les robots</strong>.</p>
+
+<p>Dans le film <a href="http://en.wikipedia.org/wiki/Wall-e" title="WALL-E - Wikipedia, the free encyclopedia">Wall-e</a>, le robot vient provoquer l'accident au cœur des humains qui ne sont plus <a href="http://www.youtube.com/watch?v=u9s7afoYI-M">conscients de leurs états</a>. Les fauteuils auto-dirigés s'arrêtent, les humains obèses doivent marcher et communiquer. Ils communiquent de nouveau. Ils réalisent qu'ils ont une piscine. Les humains avaient oublié qu'ils avaient une conscience.</p>
+
+<p>Dans tous ces systèmes qui nous entourent, nous devons créer parfois de la désobéissance numérique afin de créer des possibles.</p>
+
+
+ </div>
+<!-- signature -->
+<div id="pied">
+    <address id="signature">Ce texte est publié par <span id="auteur"><a href="/karl/">Karl</a></span> sous un <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.0/fr/">contrat Creative Commons</a>. <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.0/fr/"><img alt="Creative Commons License" style="padding:0 1em;margin-bottom:7px;border-width:0" src="/2010/04/01/style/80x15" /></a></address>
+
+<p id="archives"><a href="/map">Archives</a></p>
+</div>
+</div>
+
+</div>
+</body>
+</html>
