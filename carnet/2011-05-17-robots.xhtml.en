@@ -13,7 +13,7 @@
 <body id="la-grange-net">
 
 
-<div id="page">
+<div id="page" lang="fr">
     <div id="header">
         <span id="carnet-titre"><a href="http://www.la-grange.net/">Les carnets Web de La Grange</a></span>
     </div>
@@ -27,11 +27,12 @@
         <span id="date">May 17, 2011</span>, 
         <abbr title="updated">upd</abbr>: <span id="maj">2011-05-19</span>, 
 <!-- Ajouter le nom du ou des traducteurs -->
-        translated by <a href="http://john.example.org/">John Smith</a></p>
+        translated by <a href="http://john.example.org/">John Smith</a>,
+        <a href="http://www.nota-bene.org/">St&eacute;phane Deschamps</a></p>
 
 <div id="mots">
 
-    <p class="figure"><img src="/2011/04/30/5475-tv-robot" alt="Graffiti"/><br/><span class="source">New-York, États-Unis, 30 avril 2011</span></p>
+    <p class="figure"><img src="/2011/04/30/5475-tv-robot" alt="Graffiti"/><br/><span class="source">New-York, United States, 30th April 2011</span></p>
 
 
     <blockquote cite="urn:isbn:978-1-902902-52-4">
@@ -41,8 +42,9 @@
             <cite class="titre">Anti-Object</cite>, p.37, AA publications, 2008.</p>
     </blockquote>
 
-<p>L'homme créa le robot a son image, mais il fût extrêmement déçu. Et pourtant, l'espoir habitait toutes les imaginations. Comme dans toute mythologie, il inventa la genèse, le moment ultime de l'avant et de l'après. La courte vie demande que cet instant soit bref afin qu'il soit palpable dans le moment d'une génération. Que ce soit dans <a href="http://en.wikipedia.org/wiki/Ghost_in_the_Shell_(film)">Ghost In The Shell</a>, <a href="http://en.wikipedia.org/wiki/I,_Robot_(film)">I, Robot</a>, <a href="http://www.wetherobots.com">We the robots</a> (ci-dessous), les robots s'éveillent à la conscience, le don ultime.</p>
+<p>Man created robots to his likeness [NDT je ne connais pas la set phrase en anglais), but was extremely disappointed. Yet, hope was in every imagination. As in every mythology, He invented Genesis, the ultimate moment of the before-and-after. Our short lives demand that this instant be short so that one can feel it during one's lifetime. Be it in <a href="http://en.wikipedia.org/wiki/Ghost_in_the_Shell_(film)">Ghost In The Shell</a>, <a href="http://en.wikipedia.org/wiki/I,_Robot_(film)">I, Robot</a>, <a href="http://www.wetherobots.com">We the robots</a> (ci-dessous), robots are awakening to conscience, the ultimate gift.</p>
 
+<!-- ******* paused here ******* -->
 <p class="figure"><img id="wetherobots20071001" src="/2011/05/17/wetherobots-2007-10-01-IntroCh1" alt="Wetherobots20071001"/><br/><span class="source">Chris Harding 2007 ©, <a href="http://www.wetherobots.com/2007/10/01/intro-ch-001/">We The Robots 2007-01-01</a></span></p>
 
 <p>Généralement, l'homme disparaît ou définit une place dans la société pour cette nouvelle espèce consciente. Mais est-ce là toute l'histoire, existe-t-il d'autres chemins dont nous n'avons pas conscience, plus subtils ? Je décide de poser la question dans le terminal de mon ordinateur.</p>
