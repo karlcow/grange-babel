@@ -7,14 +7,14 @@
 	<link rel="stylesheet" href="/2010/04/01/style/carnet.css" type="text/css" media="screen"/>
 	<link rel="alternate" type="application/atom+xml" href="http://www.la-grange.net/feed.atom"/>
 	<link rel="icon" href="/favicon.ico" type="image/png"/>
-    <meta name="keywords" content="robot, désobéissance, objectisyou, futur, carnet"/>
+    <meta name="keywords" content="robot, disobedience, objectisyou, future, carnet"/>
 </head>
 
 <body id="la-grange-net">
 
 
-<div id="page" lang="fr">
-    <div id="header">
+<div id="page">
+    <div id="header" lang="fr">
         <span id="carnet-titre"><a href="http://www.la-grange.net/">Les carnets Web de La Grange</a></span>
     </div>
 <!-- contenu -->
@@ -25,10 +25,10 @@
 
     <p id="publication">
         <span id="date">May 17, 2011</span>, 
-        <abbr title="updated">upd</abbr>: <span id="maj">2011-05-19</span>, 
+        <abbr title="updated">upd</abbr>: <span id="maj">2011-05-22</span>, 
 <!-- Ajouter le nom du ou des traducteurs -->
         translated by <a href="http://john.example.org/">John Smith</a>,
-        <a href="http://www.nota-bene.org/">St&eacute;phane Deschamps</a></p>
+        <a href="http://www.nota-bene.org/">St&eacute;phane Deschamps</a> (Translator's note: I have deliberately used two variants, &lsquo;program&rsquo; and &lsquo;programme&rsquo;; one for the software product and the other to describe a programmation/scheduling approach to life; I hope it does not sound too far-fetched to the reader)</p>
 
 <div id="mots">
 
@@ -42,7 +42,7 @@
             <cite class="titre">Anti-Object</cite>, p.37, AA publications, 2008.</p>
     </blockquote>
 
-<p>Man created robots to his image, but was extremely disappointed. Yet, hope was nurturing imaginations<!-- this one from arkhi! -->. As in every mythology, He invented Genesis, the ultimate moment of the before-and-after. Our short lives demand that this instant be short so that one can feel it during one's lifetime. Be it in <a href="http://en.wikipedia.org/wiki/Ghost_in_the_Shell_(film)">Ghost In The Shell</a>, <a href="http://en.wikipedia.org/wiki/I,_Robot_(film)">I, Robot</a>, <a href="http://www.wetherobots.com">We the robots</a> (ci-dessous), robots are awakening to conscience, the ultimate gift.</p>
+<p>Man created robots to his image, but was extremely disappointed. Yet, hope was nurturing imaginations<!-- this one from arkhi! -->. As in every mythology, He invented Genesis, the ultimate moment of the before-and-after. Our short lives demand that this instant be short so that one can feel it during one's lifetime. Be it in <a href="http://en.wikipedia.org/wiki/Ghost_in_the_Shell_(film)">Ghost In The Shell</a>, <a href="http://en.wikipedia.org/wiki/I,_Robot_(film)">I, Robot</a>, <a href="http://www.wetherobots.com">We the robots</a> (below), robots are awakening to conscience, the ultimate gift.</p>
 
 <p class="figure"><img id="wetherobots20071001" src="/2011/05/17/wetherobots-2007-10-01-IntroCh1" alt="We the robots, comic page"/><br/><span class="source">Chris Harding 2007 ©, <a href="http://www.wetherobots.com/2007/10/01/intro-ch-001/">We The Robots 2007-01-01</a></span></p>
 
@@ -54,69 +54,63 @@ karl
 </pre>
 </div>
 
-<p>Hmm… who is answering? A program, racting to instructions built into the Unix system of my computer. This is not a proper answer but a programme for my future. The program was designed to answer in the future. When we type <code>whoami</code> (Who am I?), the program gives us our login name on the computer. Although the answer is correct and in accordance with what was defined, it shows a lack of &lsquo;conscience&rsquo;. Let's imagine the program replied &lsquo;I don't know&rsquo;. All of a sudden the relationship becomes more intersting: it is an accident, a chance to explore to better understand. It's the beginning of a dialogue.</p>
+<p>Hmm… who is answering? A program, reacting to instructions built into the Unix system of my computer. This is not a proper answer but a programme for my future. The program was designed to answer in the future. When we type <code>whoami</code> (&lsquo;Who am I?&rsquo;), the program gives us our login name on the computer. Although the answer is correct and in accordance with what was defined, it shows a lack of &lsquo;conscience&rsquo;. Let's imagine the program replied &lsquo;I don't know&rsquo;. All of a sudden the relationship becomes more interesting: it is an accident, a chance to explore, to better understand. It's the beginning of a dialogue.</p>
 
 <h2 id="leprogrammeduquotidien">Daily programming</h2>
 
 <h3 id="calendrier">Calendar</h3>
 
-<p>Our lives are full of those moments when we respond to programmes. The calendar reorganises time in a sequence of weeks, months and years. But even more than that, it is scheduling our future. We obey to elements that structure our individual actions, but also, unconsciously, our social behaviours. In numerous parts of our industrialised society, we have set a rhythm of 5+2 days. Those two weekend days program a different behaviour, a type of action, a destruction of our flexibility. In bigger companies, we <em>generally</em> cannot go to work on Saturday instead of Wednesday, because it is not inside the program. Accident was made impossible.</p>
-<!-- *********** paused here ********* -->
+<p>Our lives are full of those moments when we respond to programmes. The calendar reorganises time in a sequence of weeks, months and years. But even more than that, it is scheduling our future. We obey to elements that structure our individual actions, but also, unconsciously, our social behaviours. In numerous parts of our industrialised society, we have set a rhythm of 5+2 days. Those two weekend days program a different behaviour, a type of action, a destruction of our flexibility. In bigger companies, we <em>generally</em> cannot go to work on Saturday instead of Wednesday, because it is not inside the programme. Accident was made impossible.</p>
 
-<p class="figure"><img src="/2011/05/17/calendrier" alt="" /><br/><span class="source">Calendrier du mois de mai 2011</span></p>
+<p class="figure"><img src="/2011/05/17/calendrier" alt="" /><br/><span class="source">Calendar for May 2011</span></p>
 
-<h3 id="systmedecartographie">Système de cartographie</h3>
+<h3 id="systmedecartographie">Mapping system</h3>
 
-<p>Les systèmes de cartographie en ligne proposent également un programme dont nous réalisons peu la portée. Chercher la direction d'une adresse d'origine vers une destination est devenue une action très courante. Nous n'y pensons pas vraiment. Nous ne sommes plus émerveillés. Nous utilisons sans questionner. Le programme est couramment optimisé selon certains critères : </p>
+<p>Online mapping systems also provide a programme whose influence we hardly realise. Looking for directions from a starting point to a destination has become a banal action. We don't really think about it. We're not amazed any more. The program is usually optimised according to some criteria:</p>
 
 <ul>
-<li>la distance (la plus courte), </li>
-<li>le temps (le plus court), </li>
-<li>le trajet (le moins cher), </li>
-<li>le moyen de transport : à pied, en voiture, en transport en commun (avec une date et heure).</li>
+<li>distance (the shortests), </li>
+<li>time (the shortest), </li>
+<li>journey (the cheapest), </li>
+<li>means of transportation: walking, by car, public transport (with a date and hour).</li>
 </ul>
 
-<p>Ces choix sont le reflet d'une certaine organisation de nos sociétés, de ses valeurs et de son optimisation. Le chemin proposé est toujours le même pour les critères définis précédemment. Il nous suffit de suivre les instructions pour réaliser un saut quantique entre les deux points de la carte. L'entre-deux n'est pas important, il n'est que l'exécution. Nous pourrions d'ailleurs optimiser un peu plus et accentuer ce saut quantique en automatisant complètement la <a href="http://www.physorg.com/news/2011-05-google-driverless-cars-legal-nevada.html">conduite directement branché dans le système de direction en ligne</a>. L'argument retenu sera la sécurité et l'optimisation du système. Une fois tout le monde branché dans le même système, nous pouvons également réguler, distribuer le trafic à travers différents chemins.</p>
+<p>These choices reflect a certain organisation in our societies, in its values and optimisation. The path suggested is always the same for the above criteria. We just need to follow instructions to make a quantum leap between the two landmarks. The in-between is of no importance, it's only the execution that matters. We could even optimise this quantum leap a bit more by completely <a href="http://www.physorg.com/news/2011-05-google-driverless-cars-legal-nevada.html">automating the ride, directly plugged into the online directions system</a>. The reason for it will be security and system optimisation. Once everyone is plugged into the same system, we can also regulate, distribute traffic throughout different paths.</p>
 
-<p class="figure"><img src="/2011/05/17/directionmap" alt="carte de direction"/><br/><span class="source">Route de Renault, Cléon à Elbeuf</span></p>
+<p class="figure"><img src="/2011/05/17/directionmap" alt="Direction map"/><br/><span class="source">the road to Renault, Cléon at Elbeuf (France)</span></p>
 
-<h3 id="laroute">La route</h3>
+<h3 id="laroute">The road</h3>
 
-<p>Le système de cartographie est lui-même programmé à partir d'un autre programme : le système des voies de communications. Avant l'invention de la route et de la machine, nous marchions avec une grande flexibilité. Nos contraintes consistaient en la géographie naturelle de l'espace physique ainsi que de sa biologie. Nous avons créé des chemins, puis des routes, puis des voies de chemins de fer afin d'optimiser nos déplacements, les sécuriser, les rendre plus fiables, plus contrôlables, plus efficaces. En les suivant nous répondons à un programme pré-établi et dont nous questionnons peu l'existence, duquel nous pouvons difficilement échapper.</p>
+<p>The mapping system is itself programmed through another programme: the system of roadmaps. Before the invention of roads and machines, we walked with a broad flexibility. Our constraints were made up by the natural geography of the physical space and by its biology. We have created paths, then roads, then railways, to optimise our movements, to make them safer, more controllable, more efficient. By following them we respond to a preestablished programme, whose existence we hardly question, and from which we can hardly get away.</p>
 
-<p class="figure"><img src="/2007/10/12-6722-circulation" alt="Système  de routes en béton"/><br/><span class="source">Hong-Kong, 12 octobre 2007</span></p>
+<p class="figure"><img src="/2007/10/12-6722-circulation" alt="Concrete road system"/><br/><span class="source">Hong-Kong, 12 October, 2007</span></p>
 
-<h2 id="demeilleursprogrammes">De « meilleurs » programmes</h2>
+<h2 id="demeilleursprogrammes">&lsquo;Better&rsquo; programmes</h2>
 
-<p>Ces programmes sont une contrainte. Pour nombre d'entre eux, nous ne réalisons pas toujours l'impact qu'ils ont sur notre libre arbitre. Nous les avons acceptés. Nous les suivons avec bonheur nous donnant une forme de sécurité, de confort accélérant nos prises de décisions dans la société. Ils peuvent être bien sûr optimisés.</p>
+<p>These programmes are a constraint. For many of them, we don't always realise the impact they have on our free will. We have accepted them. We follow them happily, somehow feeling safe and comfortable, considering they speed up our decision-making in society. Of course they can be optimised.</p>
 
-<p>Les appareils mobiles permettent de tracer nos déplacements, leurs fréquences. Les opérateurs savent exactement à quelques mètres près combien de temps nous avons passé dans un endroit précis. Il ne s'agit pas seulement de tracer un déplacement mais également de comprendre les temps immobiles et les catégories de ces temps. Notre appareil mobile dit que nous avons passé 45 minutes dans ce café japonais à l'heure du midi. Il remarque que nous y passons régulièrement aux mêmes heures certains jours de la semaine. Que nous échangeons des messages avec des amis qui sont aussi dans ce même café aux mêmes moments que nous. Toute cette information pourrait être utilisée pour nous proposer un itinéraire qui ne répond plus seulement aux critères précédents mais également à nos préférences. La route proposée s'ajustera pour utiliser des rues avec des magasins que nous sommes susceptibles d'aimer. Le programme nous proposera de faire un arrêt à un endroit que nous aimons et évitera les endroits qui nous rendent inconfortables. Ce programme sera finalement plus facile à suivre car il collera à ce qui nous semble naturel. Il est moins violent.</p>
+<p>Mobile devices can track our movements, their frequency. Operators know exactly, give or take a few meters, how much time we spent in a particular place. The matter is not so much about tracking movement as it is about understanding immobile moments, and categorizing them. Our mobile device says that we spent 45 minutes in this japanese cafe at noon. It notices we regularly go there around the same hour several times a week. That we exchange messages with friends who are in the same cafe too at the same instant. All this information could be used to propose an itinerary that not only responds to the former criteria but also to our preferences. The route proposed will adjust itself to use streets with shops that might be of interest for us. The program will suggest a stop at a place we like and avoid places where we don't feel good. This program will eventually be easier to follow because it will be much closer to what is natural to us. It's less violent.</p>
 
-<h2 id="ladsobissancenumrique">La désobéissance numérique</h2>
+<h2 id="ladsobissancenumrique">Digital disobedience</h2>
 
-<p>La personnalisation est un système de programmation du futur. </p>
+<p>Personalisation is a system to program our future.</p>
 
-<p>En diminuant les risques d'accident, en optimisant l'expérience, nous créons un système vie générant moins de questions. Eli Pariser exprime ce phénomène par les <a href="http://www.youtube.com/watch?v=B8ofWFx525s">bulles de filtres</a>. Dans notre rencontre avec l'information, les programmes éliminent petit à petit, les éléments accidentels ceux qui sont matières à nous déstabiliser, ceux que nous ne voulons pas voir. Il crée un univers plus policé dans lequel nous <a href="http://www.recombinantrecords.net/docs/2009-05-Amusing-Ourselves-to-Death.html">voulons participer jusqu'à notre fin</a>.</p>
+<p>By reducing the risks of accident, by optimising the experience, we create a life-system that asks less questions. Eli Pariser calls this phenomenon <a href="http://www.youtube.com/watch?v=B8ofWFx525s">filter bubbles</a>. In our encounter with information, programs progressively eliminate accidental elements, those that are prone to destabilise us, those that we do not want to see. Programs create a more policed universe in which we want to <a href="http://www.recombinantrecords.net/docs/2009-05-Amusing-Ourselves-to-Death.html">take part until our end</a>.</p>
 
-<p>Le système est pernicieux car il n'est pas vraiment contraignant, il nous habitue à nos choix initiaux jusqu'au moment où nous ne sommes plus conscients de ces choix. Jusqu'au moment où ne faisons qu'obéir à un programme. <strong>Nous sommes les robots</strong>.</p>
+<p>The system is pernicious because it does not feel like a real constraint, it makes us used to our initial choices up to a point where we're not even aware of these choices any more. <strong>We are the robots.</strong></p>
 
-<p>Dans le film <a href="http://en.wikipedia.org/wiki/Wall-e" title="WALL-E - Wikipedia, the free encyclopedia">Wall-e</a>, le robot vient provoquer l'accident au cœur des humains qui ne sont plus <a href="http://www.youtube.com/watch?v=u9s7afoYI-M">conscients de leurs états</a>. Les fauteuils auto-dirigés s'arrêtent, les humains obèses doivent marcher et communiquer. Ils communiquent de nouveau. Ils réalisent qu'ils ont une piscine. Les humains avaient oublié qu'ils avaient une conscience.</p>
+<p>In the movie <a href="http://en.wikipedia.org/wiki/Wall-e" title="WALL-E - Wikipedia, the free encyclopedia">Wall-e</a>, the robot introduces the accident into the heart of humans that are not <a href="http://www.youtube.com/watch?v=u9s7afoYI-M">aware of their state</a>. The self-guided chairs stop, obese humans must walk and talk. They have to talk again. They realise they have a swimming pool. Humans had forgotten they had a conscience.</p>
 
-<p>Dans tous ces systèmes qui nous entourent, nous devons créer parfois de la désobéissance numérique afin de créer des possibles.</p>
-
+<p>In all these systems that surround us, we must sometimes create digital disobedience in order to create new possible pathways.</p>
 
  </div>
 <!-- signature -->
 <div id="pied">
-    <address id="signature">Ce texte est publié par <span id="auteur"><a href="/karl/">Karl</a></span> sous un <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.0/fr/">contrat Creative Commons</a>. <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.0/fr/"><img alt="Creative Commons License" style="padding:0 1em;margin-bottom:7px;border-width:0" src="/2010/04/01/style/80x15" /></a></address>
+    <address id="signature">This text was published by <span id="auteur"><a href="/karl/">Karl</a></span> under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.0/fr/">Creative Commons contract</a>. <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.0/fr/"><img alt="Creative Commons License" style="padding:0 1em;margin-bottom:7px;border-width:0" src="/2010/04/01/style/80x15" /></a></address>
 
 <p id="archives"><a href="/map">Archives</a></p>
 </div>
 </div>
-
-</div>
-</body>
-</html>
 
 </div>
 </body>
